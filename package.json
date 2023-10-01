@@ -28,7 +28,7 @@
     "watch": "webpack --watch --mode development"
   },
   "devDependencies": {
-    "@babel/core": "^7.22.10",
+    "@babel/core": "^7.23.0",
     "@babel/preset-env": "^7.22.10",
     "babel-loader": "^9.1.3",
     "chai": "^4.3.7",
